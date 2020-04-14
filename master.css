@@ -1,0 +1,20 @@
+body {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: burlywood;
+}
+
+.messages {
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.out-message {
+    padding: 5px;
+  background-color: crimson;
+}
+
+.in-message {
+    padding: 5px;
+   background-color: darkblue;
+}
